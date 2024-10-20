@@ -8,8 +8,6 @@ body {
     overflow-y: auto;
 }
 
-
-
 .main {
 
     justify-content: space-between;
@@ -17,11 +15,19 @@ body {
 
 }
 
-
 .carousel {
-    width:100%;
+
     height:50vh;
     overflow: hidden;
+    border-radius: 20px;
+}
+
+.text_s {
+
+    background-color: white;
+    border-radius: 20px;
+    background-color: #BE9D6A;
+
 }
 
 .carousel img {
@@ -34,10 +40,11 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 78px;
     color: #333;
-    margin: 0;
+
     font-weight: bold;
     text-align: center;
-    margin: 40px;
+
+    margin-top: 80px;
 
 }
 
@@ -56,6 +63,12 @@ body {
     font-family: 'Playfair Display', serif;
     flex: 1;
     font-size: 20px;
+
+}
+
+.logo {
+
+    height: 40px;
 
 }
 
@@ -129,6 +142,16 @@ body {
 .nav-link:hover::before, .nav-link.active::before {
     width: 100%;
     visibility: visible;
+}
+
+.navbar-toggler {
+    border: none;
+    font-size: 1.25rem;
+}
+
+.navbar-toggler:focus, .btn-close:focus {
+    box-shadow: none;
+    outline: none;
 }
 
 .butttn-container {

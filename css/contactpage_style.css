@@ -45,6 +45,12 @@ html, body {
 
 }
 
+.logo {
+
+    height: 40px;
+
+}
+
 .navbar {
     background-color: #BE9D6A;
     height: 80px;
