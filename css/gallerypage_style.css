@@ -7,6 +7,12 @@ body {
     border-radius: 20px;
 }
 
+.margin {
+
+    margin: 100px;
+
+}
+
 .image-grid {
     --gap: 16px;
     --num-cols: 4;

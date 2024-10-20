@@ -23,6 +23,12 @@ body{
 
 }
 
+.margin {
+
+    margin: 160px;
+
+}
+
 .right-box{
     padding: 40px 30px 40px 40px;
 }
