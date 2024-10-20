@@ -1,6 +1,6 @@
 html, body {
 
-    background-image: url('images/salon2.png') !important; /* Change this path to your actual image */
+    background-image: url('../images/salon2.png') !important; /* Change this path to your actual image */
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Avoid repeating the image */
