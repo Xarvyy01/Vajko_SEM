@@ -28,6 +28,10 @@ body {
 
 }
 
+.offcanvas-header {
+    background-color: #BE9D6A;
+}
+
 .text_s {
 
     background-color: white;

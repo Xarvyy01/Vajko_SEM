@@ -13,6 +13,10 @@ body {
 
 }
 
+.offcanvas-header {
+    background-color: #BE9D6A;
+}
+
 .image-grid {
     --gap: 16px;
     --num-cols: 4;

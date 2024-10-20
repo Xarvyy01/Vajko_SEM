@@ -29,6 +29,10 @@ body{
 
 }
 
+.offcanvas-header {
+    background-color: #BE9D6A;
+}
+
 .right-box{
     padding: 40px 30px 40px 40px;
 }
