@@ -4,6 +4,17 @@ html, body {
     background-color: #E3D8B7;
 }
 
+.title {
+
+    font-family: 'Playfair Display', serif;
+    font-size: 78px;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+
+}
+
 .navbar {
     background-color: #BE9D6A;
     height: 80px;
